@@ -1,0 +1,24 @@
+{
+  "name": "doggyclub",
+  "version": "1.0.0",
+  "description": "Dog Store App where you can add your Dog Details for Sale or Buy.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Khattech"
+  },
+  "keywords": [
+    "NODEJS",
+    "EXPRESSJS",
+    "MONGODB"
+  ],
+  "author": "SHIVAM KHATTRI",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
